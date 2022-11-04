@@ -29,5 +29,5 @@ mol_akord = početni_ton, tonovi[indeks_drugog_m_tona], tonovi[indeks_trećeg_to
 
 
 
-print(f"D akord je: {dur_akord}")
-print(f"M akord je: {mol_akord}")
+print(f"Dur akord je: {dur_akord}")
+print(f"Mol akord je: {mol_akord}")
